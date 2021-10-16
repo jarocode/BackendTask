@@ -9,7 +9,6 @@ checking for duplicate emails and validation for all registration data.
 3. Navigate to the config folder in the root directory and create a "config.env" file in that folder.
 4. Create a Database on Mongodb atlas.
 5. in the config.env file, paste the following code:<br />
-<<<<<<< HEAD
 PORT = 8080<br />
 SECRET_KEY = softAlliance_secret_key<br />
 MONGO_URI = pass in your mongodb cluster connection string here
