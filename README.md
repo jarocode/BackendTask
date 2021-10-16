@@ -20,8 +20,3 @@ MONGO_URI = pass in your mongodb cluster connection string here
 
 
 
-=======
-PORT = 8080 <br />
-SECRET_KEY = softAlliance_secret_key <br />
-MONGO_URI = pass in your mongodb cluster connection string here
->>>>>>> e08b352e5016f79f79b50a7178a8ecc097ca92aa
